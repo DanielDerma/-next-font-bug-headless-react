@@ -15,7 +15,7 @@ export default function MyModal() {
 
   return (
     <>
-      <div className=" z-50 grid h-8 h-screen w-full flex-col place-content-center  border-t-2 border-black bg-white">
+      <div className="z-50 grid h-8 h-screen w-full flex-col place-content-center  border-t-2 border-black bg-white">
         <button
           onClick={openModal}
           className=" grid h-10 w-10 place-content-center rounded-full bg-[#ff5858] p-6"
